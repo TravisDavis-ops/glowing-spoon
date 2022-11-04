@@ -10,3 +10,4 @@ New lines 1
 New lines 2
 New lines 3
 New lines 4
+Hello new line 
