@@ -7,6 +7,4 @@ Some boring change again 2
 
 # A new Heading
 New lines 1
-New lines 2
-New lines 3
 New lines 4
